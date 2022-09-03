@@ -8,7 +8,7 @@
 2. افتح الـ repository باستخدام github desktop
 3. ادخل على برنامج VS code وانشاء ملف تمرين داخل مجلد cw-1 في ال repository
 4. قم بإنشاء برنامج Flutter جديد و احفظه داخل الملف
-5. أضف MatiralApp و Scofield للبرنامج
+5. أضف MateiralApp و Scoffold للبرنامج
 6. ننشأ class building والذي يحتوي على المعلومات المهمة للمبنى
 
 ```dart
