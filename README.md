@@ -9,16 +9,15 @@
 3. ادخل على برنامج VS code وانشاء ملف تمرين داخل مجلد cw-1 في ال repository
 4. قم بإنشاء برنامج Flutter جديد و احفظه داخل الملف
 5. أضف MateiralApp و Scoffold للبرنامج
-6. ننشأ class building والذي يحتوي على المعلومات المهمة للمبنى
+6. ننشأ  building class والذي يحتوي على المعلومات المهمة للمبنى
 
-```dart
-class Building {
-  String name;
-  String imgUrl;
+#### Building class
+| Type         | Name of variable  |
+| ------------ | ------ |
+| String       | name |
+| String       | imgUrl  |
 
-  Building({required this.name, required this.imgUrl});
-}
-```
+
 
 7. ننشأ list و فيها معالم الكويت
 
