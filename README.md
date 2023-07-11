@@ -4,9 +4,9 @@
 
 في هذا التمرين المطلوب هو صنع برنامج يحتوي على ListView تعرض من خلالها قائمة معالم الكويت التالية : kuwait towers , Liberation Tower , Grand Mosque وفي نهاية التمرين يجب أن تكون النتيجة مقاربة للشكل التالي:
 
-1. قم بعمل fork للـ repository
-2. افتح الـ repository باستخدام github desktop
-3. ادخل على برنامج VS code وانشاء ملف تمرين داخل مجلد cw-1 في ال repository
+1. حمل الـ repository (هذا الفولدر)
+2. افتح الملف في VS code
+3. ادخل على برنامج VS code وانشئ ملف تمرين داخل مجلد cw-1 في ال repository
 4. قم بإنشاء برنامج Flutter جديد و احفظه داخل الملف
 5. أضف MateiralApp و Scoffold للبرنامج
 6. ننشأ building class والذي يحتوي على المعلومات المهمة للمبنى
